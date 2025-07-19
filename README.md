@@ -54,10 +54,11 @@ Case-insensitive letter handling.
 
 ## Screenshot
 ### Code:
-![image]()
+![image](https://github.com/ashishyadav-1510/CodeAlpha_Hangman_Game/blob/main/Screenshot/Screenshot%202025-07-19%20212750.png?raw=true)
+![image](https://github.com/ashishyadav-1510/CodeAlpha_Hangman_Game/blob/main/Screenshot/Screenshot%202025-07-19%20212804.png?raw=true)
 
 ### Output:
-![image]()
+![image](https://github.com/ashishyadav-1510/CodeAlpha_Hangman_Game/blob/main/Screenshot/Screenshot%202025-07-19%20212907.png?raw=true)
 
 ## Video
 [Video](https://youtu.be/j6XIowYQHZM)
